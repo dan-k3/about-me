@@ -46,7 +46,7 @@ and elevate my skills so that I may meet today's challenges head-on. Danke! 🙇
 - "Reflect" using the P.A.S. score, "Resolve" using a Context and Time calendar, and "Recognize" using a journal
 - Not yet published, but should be available in the near future for public review
 
-### Lifestyle & Productivity App, Cipherical
+### Lifestyle & Productivity App, [Cipherical](https://cipherical.com)
 - An opinionated productivity app based on the "Progressional Accountability System"
 - Developed using React Native (Expo), Supabase, SQLite, and ASP\.NET Core
 - Features include task management, progress tracking, and a tailored user experience
@@ -55,7 +55,7 @@ and elevate my skills so that I may meet today's challenges head-on. Danke! 🙇
 
 ## Experience
 
-### Freelance Developer, halfstudio
+### Freelance Developer, [halfstudio](https://halfstudio.design/)
 - Consulted with stakeholders to understand their business requirements
 - Designed a user-friendly client and prototype in Figma
 - Developed the player-facing SPA with Blazor WebAssembly framework
