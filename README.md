@@ -1,6 +1,6 @@
 [![Deploy static content to Pages](https://github.com/dan-k3/about-me/actions/workflows/static.yml/badge.svg)](https://github.com/dan-k3/about-me/actions/workflows/static.yml)
 # Résumé - Daniel Kogeni
-`Last updated on May 4, 2025`
+`Last updated on July 24, 2025`
 
 🌐 [danielkogeni.com](https://www.danielkogeni.com)
 🌐 [linkedin.com/in/daniel-kogeni](https://www.linkedin.com/in/daniel-kogeni)
