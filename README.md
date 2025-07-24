@@ -1,10 +1,9 @@
+[![Deploy static content to Pages](https://github.com/dan-k3/about-me/actions/workflows/static.yml/badge.svg)](https://github.com/dan-k3/about-me/actions/workflows/static.yml)
 # Résumé - Daniel Kogeni
 `Last updated on May 4, 2025`
 
 🌐 [danielkogeni.com](https://www.danielkogeni.com)
 🌐 [linkedin.com/in/daniel-kogeni](https://www.linkedin.com/in/daniel-kogeni)
-
----
 
 ## About Me
 
@@ -16,8 +15,6 @@ with a new and original system that I've creatively called **[Redacted]**. 😉
 
 I am currently seeking a full-time position in software development, where I can apply
 and elevate my skills so that I may meet today's challenges head-on. Danke! 🙇
-
----
 
 ## Technical Skills
 
@@ -40,8 +37,6 @@ and elevate my skills so that I may meet today's challenges head-on. Danke! 🙇
 
 \* _Proficient_
 
----
-
 ## Projects
 
 ### Manifesto, "Progressional Accountabilty System"
@@ -58,8 +53,6 @@ and elevate my skills so that I may meet today's challenges head-on. Danke! 🙇
 - Targeting both iOS and Android—as well as Windows, macOS, and Linux platforms (via Electron.js)
 - Currently in the early stages of development, with a focus on user feedback and iterative improvements
 
----
-
 ## Experience
 
 ### Freelance Developer, halfstudio
@@ -73,8 +66,6 @@ and elevate my skills so that I may meet today's challenges head-on. Danke! 🙇
 - Implemented an authentication and authorization client using Auth0 (setup AWS SES for OTP)
 - Ensured the SEO performance was configured for high Google and Bing ranking
 
----
-
 ## Education
 
 ### DePaul University
@@ -82,8 +73,6 @@ and elevate my skills so that I may meet today's challenges head-on. Danke! 🙇
 
 ### Waubonsee Community College
 - Associate of Science (AS)
-
----
 
 ## Quotes
 
